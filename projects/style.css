@@ -1,0 +1,110 @@
+.button{
+	text-align: left;
+	margin: 10px 20px;
+	background-color: #DEB887;
+	border: none;
+	color: #fff;
+	padding: 5px 5px;
+	display: inline-block;
+	display: inline-block;
+  	font-size: 20px;
+}
+.btn-one:hover{
+	background-color: yellow;
+	transition: all 0.5s ease-in;
+}
+
+
+.firstproject{
+	margin: 10px 20px;
+	background-color:black;
+	color: white;
+	padding: 0;
+	font-size: 15px;
+
+}
+.firstproject h1{
+	font-size: 25px;
+	text-decoration:underline;	
+}
+
+.firstproject h1:hover{
+	background-color: #D2B48C;
+	transition: all 0.5s ease-in;
+}
+
+
+.secondproject{
+	margin: 10px 20px;
+	background-color:grey;
+	color: #fff;
+	padding: 0;
+	font-size: 15px;
+	
+}
+.secondproject h1{
+	font-size: 25px;
+	text-decoration:underline;
+}
+.secondproject h1:hover{
+	background-color: #D2B48C;
+	transition: all 0.5s ease-in;
+}
+
+
+.thirdproject{
+	margin: 10px 20px;
+	background-color:black;
+	color: white;
+	padding: 0;
+	font-size: 15px;
+}
+.thirdproject h1{
+	font-size: 25px;
+	text-decoration:underline;
+}
+.thirdproject h1:hover{
+	background-color: #D2B48C;
+	transition: all 0.5s ease-in;
+}
+
+.fourthproject{
+	margin: 10px 20px;
+	background-color:grey;
+	color: #fff;
+	padding: 0;
+	font-size: 15px;
+	
+}
+.fourthproject h1{
+	font-size: 25px;
+	text-decoration:underline;
+}
+.fourthproject h1:hover{
+	background-color: #D2B48C;
+	transition: all 0.5s ease-in;
+}
+
+
+.fifthproject{
+	margin: 10px 20px;
+	background-color:black;
+	color: white;
+	padding: 0;
+	font-size: 15px;
+	
+}
+.fifthproject h1{
+	font-size: 25px;
+	text-decoration:underline;
+}
+.fifthproject h1:hover{
+	background-color: #D2B48C;
+	transition: all 0.5s ease-in; 	
+}
+
+
+
+
+
+
